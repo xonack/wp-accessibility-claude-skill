@@ -1,0 +1,11 @@
+{
+  "name": "claude-skill-wp-accessibility",
+  "version": "1.0.0",
+  "description": "WCAG 2.1 AA accessibility enforcement for WordPress themes covering skip links, landmarks, color contrast, form accessibility, screen reader support, keyboard navigation, and focus management.",
+  "skills": [
+    {
+      "name": "wp-accessibility",
+      "path": "skills/wp-accessibility/SKILL.md"
+    }
+  ]
+}
