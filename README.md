@@ -1,4 +1,4 @@
-# claude-skill-wp-accessibility
+# wp-accessibility-claude-skill
 
 WCAG 2.1 AA accessibility enforcement for WordPress themes covering skip links, landmarks, color contrast, form accessibility, screen reader support, keyboard navigation, and focus management.
 
@@ -7,7 +7,7 @@ WCAG 2.1 AA accessibility enforcement for WordPress themes covering skip links, 
 ### Claude Code Plugin Marketplace
 
 ```bash
-/plugin install https://github.com/xonack/claude-skill-wp-accessibility
+/plugin install https://github.com/xonack/wp-accessibility-claude-skill
 ```
 
 ### Manual Installation
@@ -30,7 +30,7 @@ Once installed, the skill activates automatically when working on relevant WordP
 ## Structure
 
 ```
-claude-skill-wp-accessibility/
+wp-accessibility-claude-skill/
 ├── README.md
 ├── LICENSE
 ├── .claude-plugin/
